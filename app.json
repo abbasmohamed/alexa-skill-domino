@@ -1,0 +1,7 @@
+{
+  "name": "alexa-app-domino",
+  "description": "Domino Lets Roll a dice through alexa",
+  "repository": "https://github.com/abbasmohamed/alexa-skill-domino",
+  "logo": "",
+  "keywords": ["alexa-rest-server", "rest server", "alexa-skill-domino", "alexa-app-domino"]
+}
